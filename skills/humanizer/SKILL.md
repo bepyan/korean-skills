@@ -1,5 +1,5 @@
 ---
-name: humanizer
+name: ko:humanizer
 description: AI가 생성한 한국어 텍스트의 특징적인 패턴을 감지하고 자연스러운 인간의 글쓰기로 변환합니다. 과학적 언어학 연구(KatFishNet 논문, 94.88% AUC 정확도)에 기반합니다. 쉼표 과다, 띄어쓰기 경직성, 품사 다양성, AI 어휘 과용, 대명사 과다, 복수형 과다, 구조적 단조로움 등 24가지 패턴을 분석합니다. ChatGPT/Claude/Gemini가 생성한 한국어 텍스트를 자연스럽게 만들거나 LLM 출력에서 AI 흔적을 제거할 때 사용하세요.
 license: MIT
 metadata:
